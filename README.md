@@ -11,6 +11,7 @@ What I plan to do with SplashKit and C# is to make the bearbones of a platformer
 - Walk left
 - Walk right
 - Gravity
+
 **Not In Scope:**
 - Sprint Left
 - Sprint Right
